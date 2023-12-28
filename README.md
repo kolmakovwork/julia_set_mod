@@ -1,26 +1,26 @@
-# "Julia set" - множество на комплексной плоскости. Генерация и визуализация этого множества и его модификаций.
+# "Julia set" - a set on the complex plane. Generation and visualization of this set and its modifications.
 
-### Описание проекта
+### Project description
 
-Julia set - множество, которое располагается на комплексной плоскости по определенной формуле.
+Julia set is a set that is located on the complex plane according to a certain formula.
 
-Моя задача изучить формулы генерирования множества Julia, сделать функцию, подобрать чарующе-красивую комбинацию, визуализировать в matplotlib, визулизировать в хорошем качестве в Tableau.
+My task is to study the Julia set generation formulas, make a function, select a charmingly beautiful combination, visualize in matplotlib, visualize in good quality in Tableau.
 
-* Общая информация про множество Julia: https://en.wikipedia.org/wiki/Julia_set
-* Референс код Python: https://blbadger.github.io/julia-sets
+* General information about the Julia set: https://en.wikipedia.org/wiki/Julia_set
+* Python reference code: https://blbadger.github.io/julia-sets
 
-**Мои итоговые модифицированные визуализации в Tableau:**
+**My final modified visualizations in Tableau:**
 1. Julia set, mod: Chinese dragon https://public.tableau.com/app/profile/alexander2244/viz/JuliasetmodChinesedragon/Julia_set_mod
 2. Julia set, mod: frost https://public.tableau.com/app/profile/alexander2244/viz/Juliasetmodfrost/Julia_set_mod
-3. И ниже в matplotlib, немного отличаются палитрой
+3. And below in matplotlib, the palette is slightly different
 
-## Цели исследования:
+## Research objectives:
 
-1. Изучить формулы генерации множества Julia set, сделать функцию;
-2. Подобрать чарующе-красивую комбинацию параметров и цветовой палитры, сгенерировать множество;
-3. Визуализировать множество предварительно в matplotlib;
-4. Сохранить этот сет в достаточно хорошем качестве, но чтоб и не тормозил;
-5. Визулизировать этот его в Tableau как Арт.
+1. Study the Julia set generation formulas, create a function;
+2. Select a charmingly beautiful combination of parameters and color palette, generate a variety;
+3. Visualize the set first in matplotlib;
+4. Save this set in fairly good quality, but not slow it down;
+5. Visualize this in Tableau as Art.
 
-## Общий вывод: 
-Получились чарующие картинки ✨, я визуализировал их предварительно в matplotlib, сохранил некоторые множетсва в хорошем качестве, ссылки на визулизацию в Tableau можете посмотреть в начале проекта.
+## General conclusion:
+The results were charming pictures ✨, I visualized them in advance in matplotlib, saved some of them in good quality, you can see links to visualization in Tableau at the beginning of the project.
